@@ -8,6 +8,10 @@
 
 ---
 
+## I can't help you with Device Tree problems! Issues that do not indicate script errors will be closed!
+
+---
+
 ## Thanks to
 - All contributors
 
@@ -121,5 +125,4 @@ Can be downloaded at [Release](../../releases)
 ## Remark
 
 #### TeamWin Recovery Project: https://github.com/minimal-manifest-twrp
-#### OrangeFox Recovery Project: https://gitlab.com/OrangeFox/Manifest
-#### SKYHAWK Recovery Project: https://github.com/SHRP/platform_manifest_twrp_omni
+#### SKYHAWK Recovery Project: https://github.com/SHRP/manifest
